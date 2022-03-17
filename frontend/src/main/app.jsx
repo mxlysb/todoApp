@@ -5,6 +5,7 @@ import '../template/custom.css'
 import React from 'react'
 import Menu from '../template/menu'
 import Routes from './routes'
+import { Link, animateScroll as scroll } from "react-scroll"; 
 
 export default props => (
     <div className='container'>

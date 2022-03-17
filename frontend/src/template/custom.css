@@ -1,5 +1,7 @@
 .btn {
     margin-right: 5px;
+    margin-left: 2px;
+    margin-top: 5px;
 }
 
 .markedAsDone {
@@ -13,4 +15,21 @@
 
 .todoForm {
     padding-bottom: 60px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0;
+}
+
+.page-header {
+    margin-top: 75px;
+
+}
+
+.form-control {
+    width: 1140px;
 }

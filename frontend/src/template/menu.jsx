@@ -1,4 +1,5 @@
 import React from 'react'
+import '../template/custom.css'
 
 export default props => (
     <nav className='navbar navbar-inverse bg-inverse'>

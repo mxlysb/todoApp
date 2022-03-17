@@ -1,4 +1,5 @@
 import React from 'react'
+import './custom.css'
 
 export default props => (
     <header className='page-header'>
